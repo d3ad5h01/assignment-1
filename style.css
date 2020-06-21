@@ -1,0 +1,29 @@
+body{
+
+}
+
+.jumbotron{
+  background: #9b4aff;
+  font-size: 80%;
+  color: #ffffff;
+
+  width: 100%;
+}
+
+.container{
+padding-left: 20px;
+}
+
+h1{
+  font-size: 300%;
+}
+
+.footer{
+  background: #a05bf0;
+
+}
+
+#links{
+  font-size: 100%;
+  color: #3d64ff;
+}
